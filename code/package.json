@@ -1,0 +1,42 @@
+{
+  "name": "code",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 9000",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.6.0",
+    "@react-pdf/renderer": "^3.4.0",
+    "axios": "^1.6.7",
+    "highlight.js": "^11.9.0",
+    "i18next": "^23.11.2",
+    "js-cookie": "^3.0.5",
+    "jwt-decode": "^4.0.0",
+    "laravel-echo": "^1.16.0",
+    "pusher-js": "^8.4.0-rc2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^14.1.0",
+    "react-quill": "^2.0.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.0",
+    "react-router-hash-link": "^2.4.3",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "vite": "^5.2.8"
+  }
+}

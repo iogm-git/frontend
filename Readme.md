@@ -119,10 +119,10 @@ IOGM - Code adalah aplikasi pembelajaran online tentang programming. Pemberi mat
 <table style="border-collapse: collapse;">
     <tr>
         <td style="border: none;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Midtrans Logo" height=35>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" height=35>
         </td>
         <td style="border: none;">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMwwPChBecQ2X-TywweLJ45X7qTlvQK6_Ps8AHuvY8oPtGTELbdMYkIckWOmcp0hgrfE&usqp=CAU" alt="Midtrans Logo" height=35>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMwwPChBecQ2X-TywweLJ45X7qTlvQK6_Ps8AHuvY8oPtGTELbdMYkIckWOmcp0hgrfE&usqp=CAU" alt="Vite Logo" height=35>
         </td>
     </tr>
 </table>
@@ -136,7 +136,7 @@ IOGM - Code adalah aplikasi pembelajaran online tentang programming. Pemberi mat
 
 1. Clone
    ```sh
-   git clone https://github.com/iogm-git/iogm-frontend.git
+   git clone https://github.com/iogm-git/frontend.git
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

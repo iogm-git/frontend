@@ -36,7 +36,11 @@ const Protected = ({ children, type }) => {
             }
         }
     } else {
-        _redirectToLogin()
+        if (type === 'route') {
+            _redirectToLogin()
+        } else if (type === 'comp-guest') {
+            return <>{children}</>
+        }
     }
 
 }
